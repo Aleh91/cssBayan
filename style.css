@@ -1,0 +1,21 @@
+body {
+    background: url(https://plainbackground.com/plain1024/ffce44.png);
+}
+
+.title-block {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    color: #000; 
+}    
+
+.btn {
+    margin: 80px;
+    cursor: pointer;
+    transition: background .3s ease;
+    background: #f8fe6e;
+}

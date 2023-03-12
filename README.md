@@ -1,1 +1,1 @@
-https://Aleh91.github.io/cssBayan/init.html 
+https://Aleh91.github.io/cssBayan/index.html 
